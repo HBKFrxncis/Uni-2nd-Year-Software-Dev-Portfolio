@@ -11,7 +11,8 @@ decimal, octal, and hexadecimal (week 4)
 6. Task management (week 5 & 6)
 
 //
-#Lab 2
+# [For each project, include a brief README file explaining
+how the program works, how to run it, and any assumptions made]
 # Guessing Game in Python
 
 ## Purpose:
@@ -83,7 +84,6 @@ This project implements a simple number guessing game where the player attempts 
 
 
 
-#Lab 5
 # Sudoku Game in Python
 
 ## Purpose:
@@ -151,7 +151,6 @@ This project implements a basic Sudoku game where players fill a 9x9 grid with n
 
 
 
-#Lab 6
 # Task Manager in Python
 
 ## Purpose:
