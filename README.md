@@ -11,8 +11,8 @@ decimal, octal, and hexadecimal (week 4)
 6. Task management (week 5 & 6)
 
 //
-# [For each project, include a brief README file explaining
-how the program works, how to run it, and any assumptions made]
+# [For each project, include a brief README file explaining how the program works, how to run it, and any assumptions made]
+
 # Guessing Game in Python
 
 ## Purpose:
